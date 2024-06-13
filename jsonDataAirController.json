@@ -1,0 +1,23 @@
+{
+  "data": {
+    "01": {
+      "id": 0,
+      "name": "Intake",
+      "temperature": 22.5,
+      "humidity": 40
+    },
+    "02": {
+      "id": 1,
+      "name": "Inside",
+      "temperature": 23.0,
+      "humidity": 45
+    },
+    "03": {
+      "id": 2,
+      "name": "Garage",
+      "temperature": 21.0,
+      "humidity": 50
+    }
+  },
+  "timestamp": "2024-06-13T12:00:00Z"
+}
